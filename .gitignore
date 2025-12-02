@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+/server/node_modules
+/client/node_modules
+
+# Environment files
+.env
+
+# Build artifacts
+build
+dist
+public/build
+
+# IDE-specific files (VS Code, others)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing and coverage
+coverage
+
+# Operating System files
+.DS_Store
+Thumbs.db
