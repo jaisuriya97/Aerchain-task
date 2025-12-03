@@ -1,6 +1,17 @@
 
 # Voice Task Tracker
 
+
+
+## Tech Stack
+
+MERN Stack
+
+- Frontend: React (Vite) + Tailwind CSS (CDN)  
+- Backend: Node.js + Express  
+- Database: MongoDB  
+- AI: Google Gemini 2.5 Flash API
+  
 It uses Google Gemini AI to listen to what you say and automatically figures out:
 
 - Title
@@ -12,14 +23,6 @@ You can also drag and drop tasks between "To Do", "In Progress", and "Done".
 
 
 
-## Tech Stack
-
-MERN Stack
-
-- Frontend: React (Vite) + Tailwind CSS (CDN)  
-- Backend: Node.js + Express  
-- Database: MongoDB  
-- AI: Google Gemini 2.5 Flash API  
 
 ---
 
